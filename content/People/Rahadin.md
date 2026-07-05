@@ -1,5 +1,5 @@
 ---
-title: Strahd's Herald
+title: Rahadin
 aliases:
   - Rahadin
 draft: false
