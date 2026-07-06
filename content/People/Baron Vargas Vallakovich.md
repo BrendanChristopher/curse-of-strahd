@@ -45,5 +45,15 @@ Burgomaster of Vallaki.
 - [[Viktor Vallakovich]] - son
 - [[Izek Strazni]] - Enforcer, Captainof the Black Cloaks, right hand man.
 
+# Lore
+Most of this information came from [[Lady Fiona Wachter]], during dinner with her.
+* The Vallakovich family has ruled Vallaki ever since its first patriarch, Boris Vallakovich, founded the town nearly five-hundred years ago. The Vallakoviches claim to have royal blood in their veins, and have always believed themselves superior to all others in the valley, and the current Baron is no different.
+- Baron Vargas Vallakovich first came to power as burgomaster eleven years ago, when his father, Baron Valentin Vallakovich, passed away in his sleep. (At the time, Valentin was barely fifty years old and in near-perfect health. Fiona has always harbored her suspicions, but no foul play ever came to light.)
+- Vargas is a firm believer in the superstition that the Devil Strahd first arrived as a punishment for the sins of the Barovians’ ancestors. He has therefore always had a strange fixation on the idea that “happiness” may one day allow the Vallakian people to return sunlight to the valley, hosting monthly “festivals” that most have always considered to be dull affairs.
+- Ever since Strahd's awakening three months ago, Vargas once-harmless beliefs have become an obsession. He has instituted weekly festivals and made attendance mandatory.
+- Vargas has also criminalized “malicious unhappiness."  While most “lawbreakers” wind up in the stocks, a select few have been taken to his mansion for personal “rehabilitation” - including Udo Lukovich, a local shoemaker, who was arrested last week.
+- Vargas’s fear and paranoia have even driven him to bar the refugees from the village of Barovia from entering Vallaki, something she sees as an enormous abuse of power that has caused significant and undeserved suffering. 
+- Vargas’s will is enforced by his right-hand man, [[Izek Strazni]], who serves both as Vallaki’s Captain of the Black Cloaks and as Vargas’s personal enforcer.
+
 # Rumors
 - Urwin Martikov said the Baron is known to be highly susceptible to flattery—and that should you ever need to win his favor, his ego may be a prime target.

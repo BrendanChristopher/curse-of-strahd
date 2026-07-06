@@ -41,8 +41,8 @@ None
 # Lore
 Van Richten has authored many books in universe; a series with the working titles "Van Richten's Guide to ____________": Vampires, Ghosts, Werebeasts, Witches, The Ancient Dead, the Created, the Lich, and Demons.
 
-He also has a series titles "Van Richten's Monster Hunter's Compendium" with 3 volumes. 
+He also has a series titled "Van Richten's Monster Hunter's Compendium" with 3 volumes. 
 
 He is an authority on all things monsters, and slaying them.
 
-This is the Batman or Van Helsing of the DND universe, if Batman straight murdered every opponent he came across, and if Van Helsing was even more successful of a monster hunter.
+Said he has reasons for not accompanying the party, but he will help with info if he can.

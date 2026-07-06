@@ -41,7 +41,7 @@ People - the NPCs
  - [[Arrigal]] - Brother to Luvash, Uncle to Arabelle.
  - [[Baron Vargas Vallakovich]] - Burgomaster of Vallaki.
  - [[Bildrath Cantemir]] - Owner of Bildrath's Mercantiles.
- - [[Danika Martikova]]- Shrewd but kind owner of Blue Water Inn.
+ - [[Danika Dorakova]]- Shrewd but kind owner of Blue Water Inn.
  - [[Doru]] - Vampire Spawn son of the priest in Barovia. 
  - [[Dr. Rudolph Van Richten]] - Scholar, monster hunter extraordinaire. Alter ego is Rictavio.
  - [[Father Donavich]] - Priest in Barovia. Doru's dad.

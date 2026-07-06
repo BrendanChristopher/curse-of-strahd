@@ -27,6 +27,7 @@ connected_groups:
 The kind bartender at [[Blue Water Inn]]. She co-owns the inn, along with her husband Urwin Martikov, and her two boys Brom and Bray.
 
 # Connections
+* She's the bartender at the only Inn in town. She's probably connected to nearly everyone in one way or another.
 
 # Relationships
 - [[Urwin Martikov]] - Co-owner of Blue Water Inn.
@@ -35,3 +36,4 @@ The kind bartender at [[Blue Water Inn]]. She co-owns the inn, along with her hu
 
 # Lore
 
+* Hid the knowledge of Ireena from Izek when he trashed the Inn and threatened the Martikovs. 

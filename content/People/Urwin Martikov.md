@@ -28,6 +28,6 @@ A kind cook. owner of [[Blue Water Inn]] Fair, and reasonable. Loves his wife an
 
 
 # Relationships
-- [[Danika Martikova]] - wife
+- [[Danika Dorakova]] - wife
 - Brom Martikov  - son
 - Bray Martikov - son

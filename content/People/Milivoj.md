@@ -1,7 +1,7 @@
 ---
 title: Milivoj
 aliases:
-draft: false
+draft: true
 tags: Category/People
 MyContainer: "[[St Andral's Church]]"
 char_race: Barovian
